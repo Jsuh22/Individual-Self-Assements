@@ -1,6 +1,7 @@
 # Individual-Self-Assements
 
-I main task was database. Which was fairly simple because of the data that we selected already being quite clean. The only major thing I had to figure out was doing a UNION between our two data sets. Which after googling was very simple.
+My main task was database. Which was fairly simple because of the data that we selected already being quite clean. The only major thing I had to figure out was doing a UNION between our two data sets. Which after googling was very simple.
+
 As a team we all did our parts and beyond. If anyone needed help on something and asked we would chip in. It felt like a group effort and we had no conflicts.
 
 # Summary
